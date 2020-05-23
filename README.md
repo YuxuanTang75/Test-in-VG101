@@ -1,10 +1,5 @@
 # Test-in-VG101
 ####a try to 101
 ##Coding Interview University
-I originally created this as a short to-do list of study topics for becoming a software engineer, but it grew to the large list you see today. After going through this study plan, I got hired as a Software Development Engineer at Amazon! You probably won't have to study as much as I did. Anyway, everything you need is here.
-
-I studied about 8-12 hours a day, for several months. This is my story: Why I studied full-time for 8 months for a Google interview
-
-The items listed here will prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
-
-Best of luck to you!
+##### The repository I'm interested
+I am a I am a novice at computers and programming. And the author of this repository was a novice, too. He didn't know a stack from a heap, Big-O anything, anything about trees, or how to traverse a graph. If he had to code a sorting algorithm, he can tell ya it wouldn't have been very good. Every data structure he's ever used was built into the language, and he didn't know how they worked under the hood at all. He's never had to manage memory unless a process he was running would give an "out of memory" error, and then he'd have to find a workaround. he've used a few multidimensional arrays in his life and thousands of associative arrays, but he's never created data structures from scratch.
